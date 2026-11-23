@@ -89,6 +89,4 @@ Requirements
 
 # Project Status
 This README documents the FoodExpress SQL Server database schema and
-sample-data setup. Add further sections as the project develops, such as
-views, stored procedures, transactions, triggers, indexes, reports, and
-application integration.
+sample-data setup. 
