@@ -1,7 +1,7 @@
 # FoodExpress - Food Delivery Management System
 
 # Project Overview
-FoodExpress is a food delivery marketplace database for Urban Bite
+FoodExpress is a food delivery marketplace for Urban Bite
 Technologies. It supports the core data required to manage customers,
 restaurants, menu items, delivery riders, customer orders, and the items
 included in each order.
