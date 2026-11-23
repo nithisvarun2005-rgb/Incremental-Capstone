@@ -45,6 +45,7 @@ OrderItem   -                      Stores the individual menu items
 - One menu item can appear in many order items.
 Foreign keys enforce these relationships and help prevent references to
 records that do not exist.
+
 # Main Constraints
 - Primary key columns uniquely identify records.
 - Primary keys use SQL Server IDENTITY(1,1) to generate IDs
