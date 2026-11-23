@@ -21,19 +21,20 @@ This project uses Microsoft SQL Server (T-SQL).
   Customer                          Stores customer details.
 
   Restaurant                        Stores restaurant details and
-hourly capacity.
+                                    hourly capacity.
 
   Rider                             Stores delivery rider details and
-status.
+                                      status.
 
   MenuItem                          Stores menu items belonging to
-restaurants.
+                                                        restaurants.
 
   [Order]                           Stores customer orders, restaurant,
-assigned rider, status, and total
-amount.
+                                      assigned rider, status, and total
+                                    amount.
+
 OrderItem                         Stores the individual menu items
-and quantities in each order.
+                                    and quantities in each order.
 
 # Relationships
 - One restaurant can have many menu items.
