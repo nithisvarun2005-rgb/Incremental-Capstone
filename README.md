@@ -18,22 +18,22 @@ This project uses Microsoft SQL Server (T-SQL).
 
 # Database Tables
   Table                               Purpose
-  Customer                          Stores customer details.
+  Customer  -                        Stores customer details.
 
-  Restaurant                        Stores restaurant details and
+  Restaurant  -                      Stores restaurant details and
                                     hourly capacity.
 
-  Rider                             Stores delivery rider details and
+  Rider    -                         Stores delivery rider details and
                                       status.
 
-  MenuItem                          Stores menu items belonging to
+  MenuItem  -                        Stores menu items belonging to
                                                         restaurants.
 
-  [Order]                           Stores customer orders, restaurant,
+  [Order]    -                       Stores customer orders, restaurant,
                                       assigned rider, status, and total
                                     amount.
 
-OrderItem                         Stores the individual menu items
+OrderItem   -                      Stores the individual menu items
                                     and quantities in each order.
 
 # Relationships
