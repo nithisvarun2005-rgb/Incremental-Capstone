@@ -1,4 +1,4 @@
-# FoodExpress 
+# FoodExpress - Food Delivery Management System
 
 # Project Overview
 FoodExpress is a food delivery marketplace database for Urban Bite
